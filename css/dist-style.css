@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* strt heading and abt style */
+.topic{
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+}
+.topic h1{
+    font-weight: bolder;
+    color:white;
+    background-color: rgb(47, 153, 153);
+    margin-top: 5px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.subject{
+    min-height: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    text-align: justify;
+    background-color:rgb(47, 153, 153) ;
+    color:#F0FFFF;
+}
+.subject p{
+    font-size: 15px;
+    padding: 10px;
+    margin:1cm ;
+}
+/* end heading and abt style */
+
+
+
+
+.dist{
+    margin-top: 5px;
+}
+
+.box img{
+    border: 2px solid rgb(34, 158, 158);
+    height: 50%;
+    width: 100%;
+    margin-top: 25px;
+    border-radius: 15px;
+    margin-right: 10%;
+ 
+    
+}
+
+.photo1{
+    background-color: rgb(47, 160, 163);
+}
+
+.photo{
+    padding-left: 20%;
+}
+
+.box p{
+    text-align: center;
+    
+}
+
+.button{
+    margin-bottom: 25px;
+    margin-left: 25%;
+}
+

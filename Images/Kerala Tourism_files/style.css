@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color:rgb(24, 150, 155);
+    
+}
+
+
+.head-tag{
+    margin-left: 38%;
+    padding: 45px;
+}
+
+
+footer{
+    background-color: rgb(37, 100, 86);
+    color: white;
+     height: 1.5em; 
+    
+}
+
+footer h6{
+    text-align: center;
+}
+
+.textMargin{
+    margin-left: 15px;
+}
+
+
+
+
+.kerala{
+    background-color: rgb(47, 160, 163);
+}
+
+
+
+
+
+

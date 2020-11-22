@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.district{
+    background-color: rgb(47, 153, 153);
+    padding-top: 5px;
+}
+
+.names{
+    
+  
+    padding-left: 28%;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    background-color: rgb(47, 160, 163);
+    height: 200%;
+}
+
+.names a{
+    vertical-align: middle;
+}
+
+.MyMargin{
+   
+    justify-items: center;
+    
+}
+
+.myMargin2 img{
+    width: 150px;
+}
+
+
+.myMargin2 a{
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder ;
+    color: greenyellow;
+}
+
+.myMargin2 a:hover{
+    background-color: dodgerblue;
+    color: black;
+    transition: 0.5s ease-in-out;
+
+}
+
+.p-box img{
+    border: 2px solid cornflowerblue;
+    height: 62%;
+    margin-top: 25px;
+    border-radius: 15px;
+ 
+    
+}
